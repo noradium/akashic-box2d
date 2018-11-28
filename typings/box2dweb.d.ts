@@ -1577,7 +1577,7 @@ declare module "box2dweb" {
 			/**
 			* Local contact point.
 			**/
-			public m_localpoint: Box2D.Common.Math.b2Vec2;
+			public m_localPoint: Box2D.Common.Math.b2Vec2;
 
 			/**
 			* Normal impluse for this contact point.
